@@ -1,19 +1,17 @@
 
 # Console Log Adder
 
-This VSCode extension adds a `console.log` statement at the end of the current line in the active text editor.
+This VSCode extension adds a `console.log` statement at the end of the current line in the active text editor. 
 
 ## Features
 
 - Adds a `console.log(``);` statement at the cursor position.
 - Positions the cursor inside the backticks for immediate input.
-- Quickly trigger the extension by pressing `Alt+Q`.
-- Useful when snippets are loading really slowly.
 
 ## Usage
 
 1. Select the line where you want to add the `console.log`.
-2. Press `Alt+Q` to quickly add a `console.log(``);` statement.
+2. Execute the `console-log-adder.addConsoleLog` command.
 3. Start typing inside the backticks.
 
 ## Installation
