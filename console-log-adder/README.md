@@ -5,7 +5,7 @@ This VSCode extension adds a `console.log` statement at the end of the current l
 
 ## Features
 
-- Adds a `console.log(\`\`);` statement at the cursor position.
+- Adds a `console.log(``);` statement at the cursor position.
 - Positions the cursor inside the backticks for immediate input.
 
 ## Usage
